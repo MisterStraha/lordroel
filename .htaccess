@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Babe Access"
-AuthUserFile https://github.com/MisterStraha/lordroel/blob/main/.htpasswd
-require valid-user
